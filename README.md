@@ -30,7 +30,7 @@ validasi_form untuk memproses data dan memberikan umpan balik sesuai validasi:
 [Gambar 1](screenshot/lol9.png)
 
 ### hasil eksekusi
-[Gambar 1](screenshot/lol1.png) 
+[Gambar 1](screenshot/lol1.png)
 
 jika error:
 [Gambar 1](screenshot/lol2.png)
